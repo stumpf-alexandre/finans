@@ -1,0 +1,23 @@
+#home {
+  background: #ffc107;
+  color: #fff;
+}
+
+.box {
+  padding: 60px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.hover-text:hover {
+  color: black !important;
+}
+
+footer p a {
+  margin: 5px 15px;
+  text-decoration: none;
+  color: blue !important;
+}
+
+footer p a:hover {
+  color: black !important;
+}
