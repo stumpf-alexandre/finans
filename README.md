@@ -35,3 +35,5 @@ finans/
 
 
 Feito com ![Ícone](https://pin.it/1HNzHmcxX) por Alexandre Stumpf
+
+Feito com <img src="https://pin.it/1HNzHmcxX" width="40" height="40"/> por Alexandre Stumpf
