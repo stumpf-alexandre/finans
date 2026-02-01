@@ -34,4 +34,4 @@ finans/
 └── README.md
 
 
-Feito com <img src="./assets/icon/tecnologia.svg"> por Alexandre Stumpf
+Feito com <img src="./assets/icon/tecnologia.svg" alt="imagem tecnologia"> por Alexandre Stumpf
